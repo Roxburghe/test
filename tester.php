@@ -15,4 +15,7 @@ class tester {
         echo 1;
     }
 
+    public function r(){
+
+    }
 } 
