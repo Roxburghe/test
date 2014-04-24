@@ -8,4 +8,4 @@
  *
  */
 
-echo 'Master Update!';
+echo time();
